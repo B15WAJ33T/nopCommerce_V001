@@ -1,0 +1,140 @@
+2022-10-16 16:41:41,496 - INFO -INFO - *******    Launching Browser     *******
+2022-10-16 16:41:43,646 - INFO -INFO - *******      Opening URL      *******
+2022-10-16 16:41:53,790 - INFO -INFO - *******      Setting email id & passsword      *******
+2022-10-16 16:41:55,114 - INFO -INFO - *******     Logging in the account       *******
+2022-10-16 16:42:04,938 - INFO -INFO - *******     Confirming the page title       *******
+2022-10-16 16:42:05,213 - INFO -INFO - *******      Clicking the Customer menu      *******
+2022-10-16 16:42:05,639 - INFO -INFO - *******      Clicking the Customer menu item      *******
+2022-10-16 16:42:09,749 - INFO -INFO - *******     Clicking add new customer button      *******
+2022-10-16 16:42:23,096 - INFO -INFO - *******      Confirming the add new customer page      *******
+2022-10-16 16:42:23,117 - INFO -INFO - *******      Providing the customer info      *******
+2022-10-16 16:42:44,116 - INFO -INFO - *******      Clicking the Save button      *******
+2022-10-16 16:42:50,278 - INFO -INFO - *******      Confirming the Save confirmation message       *******
+2022-10-16 16:42:51,053 - INFO -INFO - *******      Closing the browser      *******
+2022-10-16 16:43:15,174 - INFO -INFO - *******    Launching Browser     *******
+2022-10-16 16:43:15,180 - INFO -INFO - *******      Opening URL      *******
+2022-10-16 16:43:21,535 - INFO -INFO - *******      Setting email id & passsword      *******
+2022-10-16 16:43:22,009 - INFO -INFO - *******     Logging in the account       *******
+2022-10-16 16:43:31,475 - INFO -INFO - *******     Confirming the page title       *******
+2022-10-16 16:43:31,494 - INFO -INFO - *******      Clicking the Customer menu      *******
+2022-10-16 16:43:31,666 - INFO -INFO - *******      Clicking the Customer menu item      *******
+2022-10-16 16:43:34,359 - INFO -INFO - *******      Entering the customer email to search      *******
+2022-10-16 16:43:34,689 - INFO -INFO - *******      Clicking the Search button      *******
+2022-10-16 16:43:39,795 - INFO -INFO - *******      Confirming if the customer email s present in the search table     *******
+2022-10-17 11:09:05,364 - INFO -INFO - *******    Launching Browser     *******
+2022-10-17 11:09:06,304 - INFO -INFO - *******      Opening URL      *******
+2022-10-17 11:09:14,596 - INFO -INFO - *******      Setting email id & passsword      *******
+2022-10-17 11:09:17,697 - INFO -INFO - *******     Logging in the account       *******
+2022-10-17 11:09:36,506 - INFO -INFO - *******     Confirming the page title       *******
+2022-10-17 11:09:36,682 - INFO -INFO - *******      Clicking the Customer menu      *******
+2022-10-17 11:09:36,837 - INFO -INFO - *******      Clicking the Customer menu item      *******
+2022-10-17 11:09:46,359 - INFO -INFO - *******      Entering the customer email to search      *******
+2022-10-17 11:09:47,184 - INFO -INFO - *******      Clicking the Search button      *******
+2022-10-17 11:09:52,417 - INFO -INFO - *******      Confirming if the customer email s present in the search table     *******
+2022-10-17 11:34:51,148 - INFO -INFO - *******    Launching Browser     *******
+2022-10-17 11:34:52,316 - INFO -INFO - *******      Opening URL      *******
+2022-10-17 11:35:06,356 - INFO -INFO - *******      Setting email id & passsword      *******
+2022-10-17 11:35:08,629 - INFO -INFO - *******     Logging in the account       *******
+2022-10-17 11:35:19,022 - INFO -INFO - *******     Confirming the page title       *******
+2022-10-17 11:35:19,125 - INFO -INFO - *******      Clicking the Customer menu      *******
+2022-10-17 11:35:19,402 - INFO -INFO - *******      Clicking the Customer menu item      *******
+2022-10-17 11:35:26,557 - INFO -INFO - *******     Clicking add new customer button      *******
+2022-10-17 11:35:39,574 - INFO -INFO - *******      Confirming the add new customer page      *******
+2022-10-17 11:35:39,587 - INFO -INFO - *******      Providing the customer info      *******
+2022-10-17 11:35:59,137 - INFO -INFO - *******      Clicking the Save button      *******
+2022-10-17 11:36:06,029 - INFO -INFO - *******      Confirming the Save confirmation message       *******
+2022-10-17 11:36:07,365 - INFO -INFO - *******      Closing the browser      *******
+2022-10-17 11:36:35,521 - INFO -INFO - *******    Launching Browser     *******
+2022-10-17 11:36:35,535 - INFO -INFO - *******      Opening URL      *******
+2022-10-17 11:36:44,014 - INFO -INFO - *******      Setting email id & passsword      *******
+2022-10-17 11:36:44,513 - INFO -INFO - *******     Logging in the account       *******
+2022-10-17 11:36:53,055 - INFO -INFO - *******     Confirming the page title       *******
+2022-10-17 11:36:53,067 - INFO -INFO - *******      Logging out      *******
+2022-10-17 11:36:55,502 - INFO -INFO - *******     Confirming the page title       *******
+2022-10-17 11:36:55,511 - INFO -INFO - *******      Closing the browser      *******
+2022-10-17 12:16:53,995 - INFO -INFO - *******    Launching Browser     *******
+2022-10-17 12:16:55,100 - INFO -INFO - *******      Opening URL      *******
+2022-10-17 12:17:08,409 - INFO -INFO - *******      Setting email id & passsword      *******
+2022-10-17 12:17:21,151 - INFO -INFO - *******     Logging in the account       *******
+2022-10-17 12:17:49,091 - INFO -INFO - *******     Confirming the page title       *******
+2022-10-17 12:17:49,526 - INFO -INFO - *******      Logging out      *******
+2022-10-17 12:18:03,838 - INFO -INFO - *******     Confirming the page title       *******
+2022-10-17 12:18:33,408 - INFO -INFO - *******      Closing the browser      *******
+2022-10-17 12:41:50,103 - INFO -INFO - *******    Launching Browser     *******
+2022-10-17 12:41:52,602 - INFO -INFO - *******      Opening URL      *******
+2022-10-17 12:42:29,209 - INFO -INFO - *******      Setting email id & passsword      *******
+2022-10-17 12:42:38,895 - INFO -INFO - *******     Logging in the account       *******
+2022-10-17 12:43:07,517 - INFO -INFO - *******     Confirming the page title       *******
+2022-10-17 12:43:07,760 - INFO -INFO - *******      Clicking the Customer menu      *******
+2022-10-17 12:43:10,886 - INFO -INFO - *******      Clicking the Customer menu item      *******
+2022-10-17 13:49:42,551 - INFO -INFO - *******    Launching Browser     *******
+2022-10-17 13:49:43,340 - INFO -INFO - *******      Opening URL      *******
+2022-10-17 13:49:51,762 - INFO -INFO - *******      Setting email id & passsword      *******
+2022-10-17 13:49:52,623 - INFO -INFO - *******     Logging in the account       *******
+2022-10-17 13:50:08,905 - INFO -INFO - *******     Confirming the page title       *******
+2022-10-17 13:50:08,988 - INFO -INFO - *******      Clicking the Customer menu      *******
+2022-10-17 13:50:09,435 - INFO -INFO - *******      Clicking the Customer menu item      *******
+2022-10-17 13:50:29,492 - INFO -INFO - *******     Clicking add new customer button      *******
+2022-10-17 13:50:54,913 - INFO -INFO - *******      Confirming the add new customer page      *******
+2022-10-17 13:50:54,951 - INFO -INFO - *******      Providing the customer info      *******
+2022-10-17 13:51:15,384 - INFO -INFO - *******      Clicking the Save button      *******
+2022-10-17 13:51:23,027 - INFO -INFO - *******      Confirming the Save confirmation message       *******
+2022-10-17 13:51:23,797 - INFO -INFO - *******      Closing the browser      *******
+2022-10-17 13:51:47,464 - INFO -INFO - *******    Launching Browser     *******
+2022-10-17 13:51:47,481 - INFO -INFO - *******      Opening URL      *******
+2022-10-17 13:51:51,802 - INFO -INFO - *******      Setting email id & passsword      *******
+2022-10-17 13:51:52,224 - INFO -INFO - *******     Logging in the account       *******
+2022-10-17 13:52:00,682 - INFO -INFO - *******     Confirming the page title       *******
+2022-10-17 13:52:00,692 - INFO -INFO - *******      Logging out      *******
+2022-10-17 13:52:04,215 - INFO -INFO - *******     Confirming the page title       *******
+2022-10-17 13:52:04,315 - INFO -INFO - *******      Closing the browser      *******
+2022-10-17 13:54:11,646 - INFO -INFO - *******    Launching Browser     *******
+2022-10-17 13:54:11,715 - INFO -INFO - *******      Opening URL      *******
+2022-10-17 13:54:18,699 - INFO -INFO - *******      Setting email id & passsword      *******
+2022-10-17 13:54:19,213 - INFO -INFO - *******     Logging in the account       *******
+2022-10-17 13:54:27,398 - INFO -INFO - *******     Confirming the page title       *******
+2022-10-17 13:54:27,427 - INFO -INFO - *******      Clicking the Customer menu      *******
+2022-10-17 13:54:27,728 - INFO -INFO - *******      Clicking the Customer menu item      *******
+2022-10-17 13:54:33,833 - INFO -INFO - *******     Clicking add new customer button      *******
+2022-10-17 13:54:47,081 - INFO -INFO - *******      Confirming the add new customer page      *******
+2022-10-17 13:54:47,112 - INFO -INFO - *******      Providing the customer info      *******
+2022-10-17 13:55:05,729 - INFO -INFO - *******      Clicking the Save button      *******
+2022-10-17 13:55:10,892 - INFO -INFO - *******      Confirming the Save confirmation message       *******
+2022-10-17 13:55:11,562 - INFO -INFO - *******      Closing the browser      *******
+2022-10-17 13:55:20,106 - INFO -INFO - *******    Launching Browser     *******
+2022-10-17 13:55:20,121 - INFO -INFO - *******      Opening URL      *******
+2022-10-17 13:55:25,561 - INFO -INFO - *******      Setting email id & passsword      *******
+2022-10-17 13:55:25,982 - INFO -INFO - *******     Logging in the account       *******
+2022-10-17 13:55:34,131 - INFO -INFO - *******     Confirming the page title       *******
+2022-10-17 13:55:34,154 - INFO -INFO - *******      Logging out      *******
+2022-10-17 13:55:36,815 - INFO -INFO - *******     Confirming the page title       *******
+2022-10-17 13:55:36,832 - INFO -INFO - *******      Closing the browser      *******
+2022-10-17 14:04:18,494 - INFO -INFO - *******    Launching Browser     *******
+2022-10-17 14:04:19,186 - INFO -INFO - *******      Opening URL      *******
+2022-10-17 14:04:25,386 - INFO -INFO - *******      Setting email id & passsword      *******
+2022-10-17 14:04:30,772 - INFO -INFO - *******     Logging in the account       *******
+2022-10-17 14:04:56,440 - INFO -INFO - *******     Confirming the page title       *******
+2022-10-17 14:04:56,470 - INFO -INFO - *******      Clicking the Customer menu      *******
+2022-10-17 14:04:56,646 - INFO -INFO - *******      Clicking the Customer menu item      *******
+2022-10-17 14:05:05,904 - INFO -INFO - *******     Clicking add new customer button      *******
+2022-10-17 14:05:21,954 - INFO -INFO - *******      Confirming the add new customer page      *******
+2022-10-17 14:05:22,001 - INFO -INFO - *******      Providing the customer info      *******
+2022-10-17 14:05:40,546 - INFO -INFO - *******      Clicking the Save button      *******
+2022-10-17 14:05:45,179 - INFO -INFO - *******      Confirming the Save confirmation message       *******
+2022-10-17 14:05:45,840 - INFO -INFO - *******      Closing the browser      *******
+2022-10-17 14:05:56,966 - INFO -INFO - *******    Launching Browser     *******
+2022-10-17 14:05:56,982 - INFO -INFO - *******      Opening URL      *******
+2022-10-17 14:05:59,831 - INFO -INFO - *******      Setting email id & passsword      *******
+2022-10-17 14:06:00,309 - INFO -INFO - *******     Logging in the account       *******
+2022-10-17 14:06:09,743 - INFO -INFO - *******     Confirming the page title       *******
+2022-10-17 14:06:09,806 - INFO -INFO - *******      Logging out      *******
+2022-10-17 14:06:12,050 - INFO -INFO - *******     Confirming the page title       *******
+2022-10-17 14:06:12,067 - INFO -INFO - *******      Closing the browser      *******
+2022-10-17 14:18:47,932 - INFO -INFO - *******    Launching Browser     *******
+2022-10-17 14:18:49,308 - INFO -INFO - *******      Opening URL      *******
+2022-10-17 14:18:53,233 - INFO -INFO - *******      Setting email id & passsword      *******
+2022-10-17 14:18:53,620 - INFO -INFO - *******     Logging in the account       *******
+2022-10-17 14:19:05,165 - INFO -INFO - *******     Confirming the page title       *******
+2022-10-17 14:19:05,274 - INFO -INFO - *******      Logging out      *******
+2022-10-17 14:19:09,153 - INFO -INFO - *******     Confirming the page title       *******
+2022-10-17 14:19:09,164 - INFO -INFO - *******      Closing the browser      *******

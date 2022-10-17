@@ -1,0 +1,7 @@
+paigeObject\AddCustomerPage.class
+paigeObject\LoginPage.class
+paigeObject\SearchCustomerPage.class
+stepDefination\BaseClass.class
+testRunner\TestRun.class
+utilities\WaitHelper.class
+stepDefination\Steps.class
